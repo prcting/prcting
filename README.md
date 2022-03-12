@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm 秋之 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<!--
-**prcting/prcting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const ting = {
+  pronouns: "He" | "Him",
+  code: ["Java", "C", "C#", "Python", "Go", "Vue"],
+  tools: ["vim", "Docker"],
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+  techCommunities: {
+    coorganizer: "Java",
+    speaker: "Chinese",
+  },
+  currentFocus: "Spring & Spring Cloud"
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
