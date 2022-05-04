@@ -1,17 +1,5 @@
 ## Hi, I'm Maize <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-```javascript
-const maize = {
-  pronouns: "He" | "Him",
-  code: ["Java", "C", "C#", "Python", "Go", "Vue"],
-  tools: ["vim", "Docker"],
-  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-  techCommunities: {
-    coorganizer: "Java",
-    speaker: "Chinese",
-  },
-  currentFocus: "Spring & Spring Cloud"
-}
-```
-
----
+<div align="center">
+<img height="150" src="https://raw.githubusercontent.com/prcting/prcting/master/1.gif" alt="gif with funny random cat say thank you." />
+</div>
