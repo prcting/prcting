@@ -3,3 +3,7 @@
 <div align="center">
 <img height="150" src="https://raw.githubusercontent.com/prcting/prcting/master/1.gif" alt="gif with funny random cat say thank you." />
 </div>
+
+<div align='center'>
+<b>A Javaer that is learning framework</b><br>
+</div>
